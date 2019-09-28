@@ -1,2 +1,5 @@
 # hello-world
-Sample repository
+
+Hello humans.
+
+Andrew here.  I like noodles and learning.
